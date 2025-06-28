@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="iv_product_item" type="id" />
+    <item name="tv_product_name_item" type="id" />
+    <item name="tv_product_price_item" type="id" />
+    <item name="recycler_view" type="id" />
+</resources>
